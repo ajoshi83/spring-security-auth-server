@@ -1,3 +1,4 @@
+/*
 package com.poc.springboot.springsecurityauthserver.resource;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -28,3 +29,4 @@ public class Token {
     }
 }
 
+*/
